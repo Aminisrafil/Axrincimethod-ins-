@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.AssemblyInfo.cs
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.exe
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.deps.json
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.runtimeconfig.json
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.runtimeconfig.dev.json
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.dll
+C:\Users\user\source\repos\methods2\methods2\bin\Debug\netcoreapp3.1\methods2.pdb
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.dll
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.pdb
+C:\Users\user\source\repos\methods2\methods2\obj\Debug\netcoreapp3.1\methods2.genruntimeconfig.cache
